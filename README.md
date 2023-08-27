@@ -38,7 +38,7 @@ Contributions are welcome! If you have ideas for improvements, please open an is
 
 ## Contact
 
-For questions or feedback, feel free to reach out to us at [your@email.com](mailto:your@email.com).
+For questions or feedback, feel free to reach out to us at [saumitrapathak11@gmail.com](mailto:saumitrapathak11@gmail.com).
 
 ---
 
